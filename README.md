@@ -1,11 +1,12 @@
 # 2026-africa-ebola-BVD
 This repository is used to manage SIMS tasks related to the Red Cross and Red Crescent response to the Ebola BVD outbreak in the Democratic Republic of the Congo (DRC) and neighbouring countries.
+
 __Useful Links:__
 
-[SIMS Portal Emergency Page](https://www.rcrcsims.org/emergency/87)
-[IFRC GO Emergency Page](https://go.ifrc.org/emergencies/7937/details)
-[Remote Supporter Preparation Checklist](https://learn-sims.org/resources-and-standards/remote-supporter-preparation-checklist/)
-[SIMS Style Guidance](https://learn-sims.org/category/style-guidance/)
+- [SIMS Portal Emergency Page](https://www.rcrcsims.org/emergency/87)
+- [IFRC GO Emergency Page](https://go.ifrc.org/emergencies/7937/details)
+- [Remote Supporter Preparation Checklist](https://learn-sims.org/resources-and-standards/remote-supporter-preparation-checklist/)
+- [SIMS Style Guidance](https://learn-sims.org/category/style-guidance/)
 
 **Contributing**
 
